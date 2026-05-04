@@ -67,3 +67,12 @@ printf("Hola!\n")
 return 0;
 }
 ```
+
+#Tabla de verdad AND
+
+A | B | A and B
+--|---|--------
+V | V | V
+V | F | F
+F | V | F
+F | F | F
