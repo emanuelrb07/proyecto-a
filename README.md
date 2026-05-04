@@ -24,3 +24,16 @@ Esta es una muestra de **negrillas**
 **Al reves *tambien funciona* !**
 
 **_Todo cursiva y negrilla_**
+
+Lista de pendientes para hoy
+*Ir a la universidad
+*Asistir a clases
+*Pasar por el D1
+  *Comprar nachos
+  *Comprar guacamole
+*Volver a casa
+Requisitos para el pasaporte 
+1. Pagar derechos
+2. Solicitar cita
+3. Tomar la foto
+4. Asistir a la cita
