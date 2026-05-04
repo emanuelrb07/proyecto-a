@@ -14,3 +14,9 @@ un poco mucho mas texto
 mucho mas texto
 ###### Encabezado nivel 6
 Muchisimos mas texto
+
+Esta es una muestra de *texto en cursiva*
+Esta es una muestra de **negrillas**
+*Tambien **las podemos combinar** de este modo*
+**Al reves *tambien funciona* !*
+**_Todo cursiva y negrilla_**
