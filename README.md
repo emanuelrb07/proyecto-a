@@ -51,3 +51,19 @@ Como subir un proyecto a git
 - [x] git add .
 - [x] git commit -m "primer commit"
 - [ ] git push origin master
+
+Ejemplo de codigo en Python
+```python
+print("Este es un ejemplo de un programa")
+print("hola!")
+```
+Ejemplo de codigo en C
+```c
+#include <stdio.h>
+
+int main(void)
+{
+printf("Hola!\n")
+return 0;
+}
+```
