@@ -40,3 +40,14 @@ Requisitos para el pasaporte
 4. Asistir a la cita
 
 Para incluir un enlace, basta con digitar el nombre del sitio: https://www.javerianacali.edu.co
+
+Para incluir texto sangrado:
+
+> "Hacer preguntas en señal de que se piensa"
+> - Rabindranath Tagore
+
+Como subir un proyecto a git
+- [x] git init
+- [x] git add .
+- [x] git commit -m "primer commit"
+- [ ] git push origin master
