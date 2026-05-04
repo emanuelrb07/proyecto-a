@@ -76,3 +76,7 @@ V | V | V
 V | F | F
 F | V | F
 F | F | F
+
+Ejemplo de emojis
+:+1 :sparkles: :camel: :tada: :rocket: :metal: :octocat:
+
